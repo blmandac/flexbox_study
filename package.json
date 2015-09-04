@@ -1,0 +1,7 @@
+{
+    "name": "flexbox-study",
+    "devDependencies": {
+        "grunt" : "latest",
+        "grunt-contrib-compass" : "latest"
+    }
+}
