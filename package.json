@@ -2,6 +2,7 @@
     "name": "flexbox-study",
     "devDependencies": {
         "grunt" : "latest",
-        "grunt-contrib-compass" : "latest"
+        "grunt-contrib-compass" : "latest",
+        "grunt-contrib-cssmin" : "latest"
     }
 }
